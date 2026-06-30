@@ -19,11 +19,12 @@
 ### ⚡ About Me
 
 - 🎓 2nd year **Computer Science Engineering** student at **ENSI**
-- 🤖 Passionate about **AI, Deep Learning & LLMs**
-- 🔬 Medical image segmentation @ **Larodec Lab** (PyTorch + State-Space Models)
-- 🛠️ Co-built an **AI Recruitment System** with Llama 3 & NLP
+- 🐍 **Python Developer** specializing in AI, Deep Learning & LLMs
+- 🔬 Medical image segmentation research @ **Larodec Lab** (PyTorch + State-Space Models)
+- 🛠️ Built production-grade **AI Recruitment System** using Llama 3 LLM & NLP libraries
+- 📚 Experienced with Python ecosystem: NumPy, Pandas, scikit-learn, PyTorch, TensorFlow
 - 🏆 Treasurer of **ENSI Robotics Association**
-- 🌱 Always learning, always building 🔥
+- 🌱 Passionate about building scalable Python applications 🔥
 
 ---
 
@@ -31,12 +32,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-7B2FBE?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-9D4EDD?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-C77DFF?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-E0AAFF?style=for-the-badge&logo=langchain&logoColor=purple)
-![Git](https://img.shields.io/badge/Git-7B2FBE?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-9D4EDD?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -58,8 +64,10 @@
 
 | 🚀 Project | 💡 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| 🧠 **AC-Mamba Segmentation** | Medical image segmentation using State-Space Models | PyTorch, Python |
-| 🤝 **AI Recruitment System** | End-to-end LLM-based recruitment pipeline | Llama 3, NLP, Python |
+| 📊 **medical-image-segmentation-mamba** | State-of-the-art medical image segmentation using AC-Mamba architecture | PyTorch, NumPy, Python |
+| 🤖 **ai-recruitment-pipeline** | Production-ready LLM recruitment system with NLP and candidate analysis | Llama 3, LangChain, FastAPI, Python |
+| 🧬 **deep-learning-models** | Collection of deep learning models and implementations from scratch | TensorFlow, PyTorch, scikit-learn, Python |
+| 📈 **nlp-text-analytics** | NLP utilities and text analysis tools using transformers | HuggingFace Transformers, pandas, Python |
 
 ---
 
