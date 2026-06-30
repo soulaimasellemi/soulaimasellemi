@@ -4,7 +4,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=CS+Engineering+Student+%40+ENSI+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Turning+AI+passion+into+real+projects+%F0%9F%9A%80;LLM+Builder+%7C+Deep+Learning+%7C+NLP+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=3776AB&center=true&vCenter=true&width=650&lines=🐍+Python+Developer+%F0%9F%90%8D;CS+Engineering+Student+%40+ENSI+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Turning+AI+passion+into+real+projects+%F0%9F%9A%80;LLM+Builder+%7C+Deep+Learning+%7C+NLP+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
@@ -64,10 +69,10 @@
 
 | 🚀 Project | 💡 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| 📊 **medical-image-segmentation-mamba** | State-of-the-art medical image segmentation using AC-Mamba architecture | PyTorch, NumPy, Python |
-| 🤖 **ai-recruitment-pipeline** | Production-ready LLM recruitment system with NLP and candidate analysis | Llama 3, LangChain, FastAPI, Python |
-| 🧬 **deep-learning-models** | Collection of deep learning models and implementations from scratch | TensorFlow, PyTorch, scikit-learn, Python |
-| 📈 **nlp-text-analytics** | NLP utilities and text analysis tools using transformers | HuggingFace Transformers, pandas, Python |
+| 📊 **[medical-image-segmentation-mamba](https://github.com/soulaimasellemi/medical-image-segmentation-mamba)** | State-of-the-art medical image segmentation using AC-Mamba architecture | PyTorch, NumPy, Python |
+| 🤖 **[ai-recruitment-pipeline](https://github.com/soulaimasellemi/ai-recruitment-pipeline)** | Production-ready LLM recruitment system with NLP and candidate analysis | Llama 3, LangChain, FastAPI, Python |
+| 🧬 **[deep-learning-models](https://github.com/soulaimasellemi/deep-learning-models)** | Collection of deep learning models and implementations from scratch | TensorFlow, PyTorch, scikit-learn, Python |
+| 📈 **[nlp-text-analytics](https://github.com/soulaimasellemi/nlp-text-analytics)** | NLP utilities and text analysis tools using transformers | HuggingFace Transformers, pandas, Python |
 
 ---
 
