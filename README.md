@@ -9,7 +9,7 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Most%20Used%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
@@ -24,10 +24,10 @@
 ### ⚡ About Me
 
 - 🎓 2nd year **Computer Science Engineering** student at **ENSI**
-- 🐍 **Python Developer** specializing in AI, Deep Learning & LLMs
+- 🐍 **Python** is my main language — specializing in AI, Deep Learning & LLMs
 - 🔬 Medical image segmentation research @ **Larodec Lab** (PyTorch + State-Space Models)
 - 🛠️ Built production-grade **AI Recruitment System** using Llama 3 LLM & NLP libraries
-- 📚 Experienced with Python ecosystem: NumPy, Pandas, scikit-learn, PyTorch, TensorFlow
+- 📚 Experienced with the Python ecosystem: NumPy, scikit-learn, PyTorch, TensorFlow
 - 🏆 Treasurer of **ENSI Robotics Association**
 - 🌱 Passionate about building scalable Python applications 🔥
 
@@ -39,7 +39,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -59,7 +58,7 @@
 
 ![Soulaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulaimasellemi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soulaimasellemi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=C77DFF&text_color=E0AAFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soulaimasellemi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=C77DFF&text_color=E0AAFF&exclude_repo=projet-C&hide=C,C%2B%2B,HTML,CSS,Makefile)
 
 </div>
 
@@ -67,12 +66,19 @@
 
 ### 💜 Featured Projects
 
+<div align="center">
+
+[![Atomizer](https://github-readme-stats.vercel.app/api/pin/?username=soulaimasellemi&repo=atomizer&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF)](https://github.com/soulaimasellemi/atomizer)
+
+</div>
+
 | 🚀 Project | 💡 Description | 🛠️ Tech |
 |-----------|---------------|---------|
+| ⭐ **[atomizer](https://github.com/soulaimasellemi/atomizer)** | **Best project** — flagship Python build I'm most proud of | Python |
 | 📊 **[medical-image-segmentation-mamba](https://github.com/soulaimasellemi/medical-image-segmentation-mamba)** | State-of-the-art medical image segmentation using AC-Mamba architecture | PyTorch, NumPy, Python |
 | 🤖 **[ai-recruitment-pipeline](https://github.com/soulaimasellemi/ai-recruitment-pipeline)** | Production-ready LLM recruitment system with NLP and candidate analysis | Llama 3, LangChain, FastAPI, Python |
 | 🧬 **[deep-learning-models](https://github.com/soulaimasellemi/deep-learning-models)** | Collection of deep learning models and implementations from scratch | TensorFlow, PyTorch, scikit-learn, Python |
-| 📈 **[nlp-text-analytics](https://github.com/soulaimasellemi/nlp-text-analytics)** | NLP utilities and text analysis tools using transformers | HuggingFace Transformers, pandas, Python |
+| 📈 **[nlp-text-analytics](https://github.com/soulaimasellemi/nlp-text-analytics)** | NLP utilities and text analysis tools using transformers | HuggingFace Transformers, Python |
 
 ---
 
