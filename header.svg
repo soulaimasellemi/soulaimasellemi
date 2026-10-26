@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0033"/>
+      <stop offset="55%" stop-color="#7B2FBE"/>
+      <stop offset="100%" stop-color="#C77DFF"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#E0AAFF"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 64px 'Segoe UI', Arial, sans-serif; fill: url(#txt); animation: fade 1.6s ease-out both; }
+      .sub   { font: 500 20px 'Segoe UI', Arial, sans-serif; fill: #F3E5FF; letter-spacing: 2px; animation: fade 1.6s ease-out .6s both; }
+      .star  { fill: #fff; animation: twinkle 3s ease-in-out infinite; }
+      .s2 { animation-delay: .7s } .s3 { animation-delay: 1.4s } .s4 { animation-delay: 2.1s }
+      .wave  { animation: drift 8s ease-in-out infinite alternate; }
+      @keyframes fade    { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: none } }
+      @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
+      @keyframes drift   { from { transform: translateX(0) } to { transform: translateX(-60px) } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- stars -->
+  <circle class="star"    cx="90"   cy="45"  r="2.2"/>
+  <circle class="star s2" cx="230"  cy="110" r="1.6"/>
+  <circle class="star s3" cx="380"  cy="35"  r="2"/>
+  <circle class="star s4" cx="1040" cy="55"  r="2.4"/>
+  <circle class="star"    cx="1130" cy="140" r="1.6"/>
+  <circle class="star s2" cx="900"  cy="30"  r="1.8"/>
+  <circle class="star s3" cx="640"  cy="22"  r="1.5"/>
+  <circle class="star s4" cx="160"  cy="170" r="1.4"/>
+  <circle class="star"    cx="990"  cy="180" r="1.5"/>
+
+  <!-- waves -->
+  <g class="wave">
+    <path d="M0 215 C 150 185, 300 245, 450 215 S 750 185, 900 215 S 1150 245, 1300 215 L1300 260 L0 260 Z" fill="#0D0D0D" opacity=".35"/>
+    <path d="M0 235 C 200 210, 350 255, 550 232 S 900 210, 1100 235 S 1250 250, 1300 240 L1300 260 L0 260 Z" fill="#0D0D0D" opacity=".6"/>
+  </g>
+
+  <text class="title" x="600" y="118" text-anchor="middle">Soulaima Sellemi</text>
+  <text class="sub"   x="600" y="160" text-anchor="middle">CS ENGINEER  •  AI BUILDER  •  LLM &amp; DEEP LEARNING</text>
+</svg>
