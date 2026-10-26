@@ -16,31 +16,35 @@
 
 ---
 
-## 🧠 `whoami`
+## ⚡ About Me
 
-```python
-class Soulaima:
-    def __init__(self):
-        self.role        = "Computer Science Engineering Student @ ENSI (2nd year)"
-        self.main_langs  = ["Python 🐍", "Java ☕"]
-        self.research    = "Medical image segmentation @ Larodec Lab (PyTorch + State-Space Models)"
-        self.building    = ["LLM apps", "RAG pipelines", "Deep Learning models"]
-        self.latest      = "YouTube Q&A assistant — ask any video a question, answered from its transcript 🦜🎬"
-        self.side_quest  = "Treasurer @ ENSI Robotics Association 🤖"
-        self.motto       = "Ship it, measure it, make it smarter."
+> *"Ship it, measure it, make it smarter."*
 
-    def say_hi(self):
-        print("Let's build something intelligent together ✨")
-
-me = Soulaima()
-me.say_hi()
-```
+- 🎓 2nd year **Computer Science Engineering** student at **ENSI**
+- 🐍☕ **Python** & **Java** are my main languages
+- 🩻 Medical image segmentation research @ **Larodec Lab** (PyTorch + State-Space Models)
+- 🦜 Latest build: a **YouTube Q&A assistant** with LangChain — ask any video a question, answered from its transcript
+- 🤖 Built a production-grade **AI Recruitment System** with Llama 3 & NLP
+- 🏆 Treasurer of the **ENSI Robotics Association**
+- ✨ Always up for building something intelligent together
 
 ---
 
 ## 🌌 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" align="center">
+
+## 🏆 [atomizer](https://github.com/soulaimasellemi/atomizer) 🏆
+<img src="https://img.shields.io/badge/⭐-BEST%20PROJECT-FFD700?style=for-the-badge"/>
+
+**My flagship project** — the Python build I'm most proud of.
+
+`Python`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -52,22 +56,14 @@ Paste a YouTube link, ask anything — the app pulls the **video transcript**, s
 </td>
 <td width="50%" valign="top">
 
-### ⭐ [atomizer](https://github.com/soulaimasellemi/atomizer)
-My **flagship project** — the Python build I'm most proud of.
-
-`Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🩻 [medical-image-segmentation-mamba](https://github.com/soulaimasellemi/medical-image-segmentation-mamba)
 State-of-the-art medical image segmentation with the **AC-Mamba** architecture (state-space models).
 
 `PyTorch` `NumPy` `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [ai-recruitment-pipeline](https://github.com/soulaimasellemi/ai-recruitment-pipeline)
@@ -76,8 +72,6 @@ Production-ready **LLM recruitment system** — CV parsing, NLP candidate analys
 `Llama 3` `LangChain` `FastAPI` `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧬 [deep-learning-models](https://github.com/soulaimasellemi/deep-learning-models)
@@ -86,7 +80,9 @@ Deep learning models implemented **from scratch** — understanding every layer,
 `TensorFlow` `PyTorch` `scikit-learn`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 📈 [nlp-text-analytics](https://github.com/soulaimasellemi/nlp-text-analytics)
 NLP utilities and text analysis tools powered by **transformers**.
@@ -127,16 +123,6 @@ NLP utilities and text analysis tools powered by **transformers**.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📡 Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soulaimasellemi&bg_color=0D0D0D&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&area_color=7B2FBE&hide_border=true&custom_title=Coding%20Journey)
 
 </div>
 
