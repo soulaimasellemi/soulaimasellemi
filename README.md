@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:7B2FBE,100:C77DFF&height=230&section=header&text=Soulaima%20Sellemi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20LLM%20%26%20Deep%20Learning&descAlignY=58&descSize=17)
+<img src="./header.svg" width="100%" alt="Soulaima Sellemi"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+%26+%E2%98%95+Java+Developer;%F0%9F%8E%93+CS+Engineering+Student+%40+ENSI;%F0%9F%A6%9C+Building+RAG+apps+with+LangChain;%F0%9F%A4%96+LLMs+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%A9%BB+Medical+Image+Segmentation+Research;%F0%9F%9A%80+Turning+AI+ideas+into+real+products)](https://git.io/typing-svg)
 
@@ -134,6 +134,6 @@ NLP utilities and text analysis tools powered by **transformers**.
 
 **Open to internships, research collaborations & cool AI ideas** 🚀
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2FBE,100:1a0033&height=120&section=footer)
+<img src="./footer.svg" width="100%" alt=""/>
 
 </div>
